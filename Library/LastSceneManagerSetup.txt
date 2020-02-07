@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/AStarTest.unity
-  isLoaded: 1
-  isActive: 1
