@@ -7,6 +7,7 @@ namespace Assets.Scripts.AStar
 {
     public class Pathfinder
     {
+        //TODO: Для оптимизации заменить на очередь с приоритетом
         private readonly Queue<Node> _openNodes;
         private readonly List<Node> _resultPath;
         private readonly HashSet<int> _closeSet;
